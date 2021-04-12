@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @innotechsoft</h1>
-<h3 align="center">I’m an Android mobile app developer having full stack web development skills too.</h3>
+<h3 align="center">I’m an Android mobile app developer also having full stack web development skills.</h3>
 
 - 💬 Ask me about **Android, PHP, MERN stack**
 
