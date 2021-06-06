@@ -13,6 +13,6 @@
 <hr>
 - 💬 Ask me about **Android, PHP, React Native and MERN stack**
 <hr>
-- 📫 How to reach me **inntechsoft.info@gmail.com**
+- 📫 How to reach me **inntechsoft.info@gmail.com, sunil.dhiman90@gmail.com**
 
 
